@@ -1,7 +1,7 @@
 name: 'Pegasus Lodges '
 favicon: null
-layout_spectrum: 0.9767198567278683
-typography_spectrum: 0.630077235866338
+layout_spectrum: 1
+typography_spectrum: 0.88294
 title: 'Pegasus Lodge and Resorts '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.26983589120209217
-  lightness: 0.6011405761819333
-  saturation: 0.21358387498185039
-  rhythmicContrast: 0.028618148528039455
+    - '#ffffff'
+    - '#184376'
+    - '#a2b9ca'
+    - '#4f6589'
+    - '#7c93b0'
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
