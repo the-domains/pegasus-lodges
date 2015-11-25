@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: true
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - beach
   - surfers
 description: "A visit to Aganoa Lodge Samoa offers surfers and non-surfers alike an unparalleled experience, while preserving the natural and cultural integrity of one of the last untrodden surf wonderlands on the planet. Every aspect of the Aganoa Lodge Samoa guest experience is designed to immerse you in Savai'i's pristine natural environment."
-datePublished: '2015-11-25T17:25:34.291Z'
-dateModified: '2015-11-25T17:20:40.694Z'
+datePublished: '2015-11-25T17:44:36.766Z'
+dateModified: '2015-11-25T17:43:27.966Z'
 author: []
 related: []
 app_links: []
 title: Aganoa Lodge Samoa
+sourcePath: _posts/2015-11-25-aganoa-lodge-samoa.md
+published: true
 authors: []
 publisher:
   name: 'Pegasus Lodges & Resorts'
   domain: www.pegasuslodges.com
   url: 'http://www.pegasuslodges.com'
   favicon: 'http://www.pegasuslodges.com/favicon.ico'
-sourcePath: _posts/2015-11-25-aganoa-lodge-samoa.md
-published: true
 url: aganoa-lodge-samoa/index.html
 _context: 'http://schema.org'
 _type: MediaObject
