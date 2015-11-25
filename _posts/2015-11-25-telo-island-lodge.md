@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - guiding
   - waves
 description: "Pegasus Lodges & Resorts was born from our simple desire to experience and share the world's most beautiful surfing locations. Long before luxury surf trips, it was all about the waves. And it still is"
-datePublished: '2015-11-25T17:25:34.059Z'
-dateModified: '2015-11-25T17:20:10.604Z'
+datePublished: '2015-11-25T17:44:18.852Z'
+dateModified: '2015-11-25T17:42:56.492Z'
 author: []
 related: []
 app_links: []
 title: TELO ISLAND LODGE
+sourcePath: _posts/2015-11-25-telo-island-lodge.md
+published: true
 authors: []
 publisher:
   name: 'Pegasus Lodges & Resorts'
   domain: www.pegasuslodges.com
   url: 'http://www.pegasuslodges.com'
   favicon: 'http://www.pegasuslodges.com/favicon.ico'
-sourcePath: _posts/2015-11-25-telo-island-lodge.md
-published: true
 url: telo-island-lodge/index.html
 _context: 'http://schema.org'
 _type: MediaObject
