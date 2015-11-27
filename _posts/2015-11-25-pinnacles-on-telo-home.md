@@ -16,8 +16,8 @@ keywords:
   - guided
   - room
 description: "Situated on a 50 acre uninhabited private island containing one of the Telos' finest surf breaks, Pinnacles on Telo is the culmination of our experience and the ultimate expression of our ambition. Pinnacles on Telo is a carefully considered response to the overwhelming demand for our eight-surfers only Telo Island Lodge product."
-datePublished: '2015-11-25T17:44:26.342Z'
-dateModified: '2015-11-25T17:42:43.800Z'
+datePublished: '2015-11-27T19:29:48.636Z'
+dateModified: '2015-11-27T19:29:37.672Z'
 author: []
 related: []
 app_links: []
